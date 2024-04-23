@@ -1,1 +1,0 @@
-Website for Swiss Solutions automation and programming consultants. 
